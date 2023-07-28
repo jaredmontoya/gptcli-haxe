@@ -1,0 +1,9 @@
+-cp src
+-D analyzer-optimize
+-main Main
+
+--library mcli
+
+--each
+
+--cpp bin/cpp
