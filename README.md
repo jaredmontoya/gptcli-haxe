@@ -1,7 +1,6 @@
 # GPTCLI
-
-![](https://img.shields.io/github/languages/top/jaredmontoya/gptcli-haxe?style=flat)
-![](https://img.shields.io/github/languages/code-size/jaredmontoya/gptcli-haxe?style=flat)
+![Github top language](https://img.shields.io/github/languages/top/jaredmontoya/gptcli-haxe?style=for-the-badge&logo=haxe&color=orange)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jaredmontoya/gptcli-haxe?style=for-the-badge)
 
 ChatGPT cli client written in haxe
 
@@ -12,7 +11,6 @@ haxe build.hxml
 ```
 
 # Requisites
-
 - [Haxe](https://haxe.org)
 
 # Usage
